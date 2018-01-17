@@ -1,3 +1,5 @@
+# Demonstrates https://github.com/gatsbyjs/gatsby/issues/3563
+
 # gatsby-starter-hello-world
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
 
